@@ -1,135 +1,17 @@
-1
-Qual destes e um mamifero?
-A) Tubarao
-B) Polvo
-C) Baleia
-D) Pinguim
-E) Lagosta
-*
-2
-Qual foi a primeira cidade a ser atacada com uma bomba atomica?
-A) Hiroshima
-B) Nagasaki
-C) Toquio
-D) Kyoto
-E) Osaka
-*
-3
-Qual e a capital da Franca?
-A) Madrid
-B) Lisboa
-C) Roma
-D) Paris
-E) Berlim
-*
-4
-Qual e o nome do escritor de "O Senhor dos Aneis"?
-A) J.K. Rowling
-B) J.R.R. Tolkien
-C) George R.R. Martin
-D) C.S. Lewis
-E) Stephen King
-*
-5
-Quantos continentes existem no mundo?
-A) 5
-B) 6
-C) 7
-D) 8
-E) 9
-*
-6
-Em que ano comecou a Primeira Guerra Mundial?
-A) 1905
-B) 1910
-C) 1914
-D) 1918
-E) 1921
-*
-7
-Qual e o maior planeta do sistema solar?
-A) Terra
-B) Marte
-C) Jupiter
-D) Saturno
-E) Venus
-*
-8
-Quantos dias ha em um ano bissexto?
-A) 364
-B) 365
-C) 366
-D) 367
-E) 368
-*
-9
-Qual e a moeda oficial do Japao?
-A) Yuan
-B) Won
-C) Dolar
-D) Iene
-E) Euro
-*
-10
-Qual e o nome do maior deserto do mundo?
-A) Saara
-B) Gobi
-C) Kalahari
-D) Artico
-E) Antartico
-*
-11
-Quem foi o primeiro presidente dos Estados Unidos?
-A) Thomas Jefferson
-B) Abraham Lincoln
-C) George Washington
-D) John Adams
-E) James Madison
-*
-12
-Qual e o oceano mais profundo do mundo?
-A) Atlantico
-B) Indico
-C) Pacifico
-D) Artico
-E) Antartico
-*
-13
-Em que ano o homem pisou na Lua pela primeira vez?
-A) 1965
-B) 1969
-C) 1972
-D) 1980
-E) 1985
-*
-14
-Qual e a distancia media entre a Terra e a Lua?
-A) 384.400 km
-B) 150.000 km
-C) 500.000 km
-D) 250.000 km
-E) 100.000 km
-*
-15
-Quem escreveu "A Metamorfose"?
-A) Fyodor Dostoevsky
-B) Franz Kafka
-C) Gabriel Garcia Marquez
-D) Virginia Woolf
-E) James Joyce
-*
-16
-Qual e o orgao mais pesado do corpo humano?
-A) Cerebro
-B) Coracao
-C) Figado
-D) Pulmoes
-E) Pancreas
-*
-17
-Em que ano aconteceu a Revolucao Francesa?
-A) 1776
-B) 1789
-C) 1799
-D) 1804
-E) 1815
+1. Qual destes e um mamifero?
+2. Qual foi a primeira cidade a ser atacada com uma bomba atomica?
+3. Qual e a capital da Franca?
+4. Qual e o nome do escritor de "O Senhor dos Aneis"?
+5. Quantos continentes existem no mundo?
+6. Em que ano comecou a Primeira Guerra Mundial?
+7. Qual e o maior planeta do sistema solar?
+8. Quantos dias ha em um ano bissexto?
+9. Qual e a moeda oficial do Japao?
+10. Qual e o nome do maior deserto do mundo?
+11. Quem foi o primeiro presidente dos Estados Unidos?
+12. Qual e o oceano mais profundo do mundo?
+13. Em que ano o homem pisou na Lua pela primeira vez?
+14. Qual e a distancia media entre a Terra e a Lua?
+15. Quem escreveu "A Metamorfose"?
+16. Qual e o orgao mais pesado do corpo humano?
+17. Em que ano aconteceu a Revolucao Francesa?
